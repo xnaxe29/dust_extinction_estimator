@@ -3,7 +3,7 @@ This is a simple GUI code built for estimating the extinction caused by dust in 
 
 GUI code to estimate the extinction caused by dust at the rest frame of the QSO as well as any absorber.
 
-This is a GUI code that takes in a spectra from a source file and estimates the extinction caused by dust. The GUI features are currently available only for one rest frame absorber. The code further lets you choose absorption free data points in the source file that can be used for fitting for dust extinction. The code can be run by simply downloading all the files in the folder and compiling the 'main_GUI.py' through a linux terminal (if all required modules are available). The code is linux terminal friendly and has not been checked for other operating systems. 
+This is a GUI code that takes in a spectra from a source file and estimates the extinction caused by dust. The GUI features are currently available only for one rest frame absorber. The code further lets you choose absorption free data points in the source file that can be used for fitting for dust extinction. The code can be run by simply downloading all the files in the folder and compiling the 'main_GUI.py' through a linux terminal (if all required modules are available, see below). The code is linux terminal friendly and has not been checked for other operating systems. 
 
 Required dependancies - This is a simple python code (version - 2.7). Due to issues in running matplotlib widget in version 3, unfortuantely the code might not work in python 3. However, experts are welcome to change the code and try. Here is the list of python modules required to run this code -
 
