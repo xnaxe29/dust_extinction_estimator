@@ -1,0 +1,55 @@
+#Redshift of the absorber
+#
+2.339939 
+#
+#Name of the data file
+#
+data_file_J2140-0321.dat
+#
+#Redshift of the quasar
+#
+2.4797729618 
+#
+#Fontsize in GUI screen
+#
+10
+#
+#Name of the QSO template file
+#
+selsing_new.dat
+#
+#Factor by which the quasar template has to be initially smoothed
+#SMOOTHING BY A FACTOR OF 20 (IDEAL FOR SELSING SPECTRUM (selsing_new.dat))
+#
+20
+#
+#Initial guess of the E(B-V) at the absorber redshift
+#
+0.0
+#
+#Reduction in quasar flux template required to match the data
+#By default no reduction (value set to 1)
+#
+1.0
+#
+#The initial extinction class given for analysis
+#Please choose from the following - 'Galactic', 'SMC_Bar', 'LMC_Supershell', 'LMC_Average' (Default - LMC_Average)
+# 
+LMC_Average
+#
+#Initial guess of the E(B-V) at the quasar redshift
+#
+0.0
+#
+#Initial guess of the power-law slope relative to the intrinsic shape of the quasar (delta-beta)
+#Hint: Keep to zero if not required
+0.0
+#
+#
+
+
+
+
+
+
+
