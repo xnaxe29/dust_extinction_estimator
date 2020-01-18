@@ -102,4 +102,4 @@ Bar: 'QSO-Redshift' - Bar that can be used to vary the QSO emission redshift
 
 
 
-The code is free to use for all. Thank you for using the code and please feel free to contact me at - 'ranjan_adarsh@yahoo.com' for any comments, suggestions and bugs.
+The code is free to use for all. Thank you for using the code and please feel free to contact me at - 'ranjan_adarsh@yahoo.com' for any comments, suggestions and intimation of any bugs.
